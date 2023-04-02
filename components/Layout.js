@@ -5,7 +5,7 @@ import Link from 'next/link'
 import Head from 'next/head'
 import Image from 'next/image'
 const name = 'Joshua'
-export const siteTitle = "Next.js Sample website"
+export const siteTitle = "Home"
 
 export default function Layout({ children, home }) {
     return (
